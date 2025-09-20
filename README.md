@@ -9,3 +9,12 @@ here we have validate the ets case and genearte newman report
 
 ## How to run this project
 -''' Clone this project''' [Employee APIProject](https://github.com/muradmx1986/EmployeeApiProject.git)
+''' Hit the command'''
+'''bash
+npm i newman
+'''
+-- This is to facilate copy button enable
+bash 
+npx newman run [collection secret key]
+'''
+
